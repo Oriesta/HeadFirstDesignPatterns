@@ -1,0 +1,1 @@
+Projects related to Head First Design Patterns book study
