@@ -1,4 +1,7 @@
-package FactoryMethod_pizza;
+import pizzafactory.PizzaStore;
+import pizzafactory.NYPizzaStore;
+import pizzafactory.ChicagoPizzaStore;
+import pizzafactory.Pizza;
 
 public class PizzaTestDrive {
  
